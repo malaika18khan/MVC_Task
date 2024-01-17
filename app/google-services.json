@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "146172513974",
+    "project_id": "mvc-task-a6d11",
+    "storage_bucket": "mvc-task-a6d11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146172513974:android:2c9c3a3df487c017c82017",
+        "android_client_info": {
+          "package_name": "com.example.mvctask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwWtK5oZ3CW-2xi888gIYU44-yqu__nYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

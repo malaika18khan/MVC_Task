@@ -4,4 +4,6 @@
     <color name="grey">#B8B8B8</color>
     <color name="white">#FFFFFFFF</color>
     <color name="btn_color">#F8C427</color>
+    <color name="red">#E83022</color>
+    <color name="text_hint">#878A8A</color>
 </resources>
